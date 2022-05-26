@@ -1,7 +1,7 @@
 const container = document.querySelector(".container");
 
 //crear un elemento html
-const parrfo = document.createElement("p");
+const parrafo = document.createElement("p");
 
 // texto parrafo
 const textParrafo = document.createTextNode("Mi Parrafo");
